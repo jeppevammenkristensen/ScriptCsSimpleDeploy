@@ -1,0 +1,3 @@
+#load "Deploy.csx";
+
+Deploy();

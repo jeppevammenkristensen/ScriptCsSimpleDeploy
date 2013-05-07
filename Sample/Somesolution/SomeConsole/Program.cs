@@ -10,7 +10,7 @@ namespace SomeConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Here i am");
+            Console.WriteLine("Succesfully called");
         }
     }
 }
