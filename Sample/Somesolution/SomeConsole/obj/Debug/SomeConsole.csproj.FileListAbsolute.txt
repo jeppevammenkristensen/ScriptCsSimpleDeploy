@@ -1,0 +1,6 @@
+C:\git\ScriptCsSimpleDeploy\Sample\Somesolution\SomeConsole\bin\Debug\SomeConsole.exe.config
+C:\git\ScriptCsSimpleDeploy\Sample\Somesolution\SomeConsole\bin\Debug\SomeConsole.exe
+C:\git\ScriptCsSimpleDeploy\Sample\Somesolution\SomeConsole\bin\Debug\SomeConsole.pdb
+C:\git\ScriptCsSimpleDeploy\Sample\Somesolution\SomeConsole\obj\Debug\SomeConsole.csprojResolveAssemblyReference.cache
+C:\git\ScriptCsSimpleDeploy\Sample\Somesolution\SomeConsole\obj\Debug\SomeConsole.exe
+C:\git\ScriptCsSimpleDeploy\Sample\Somesolution\SomeConsole\obj\Debug\SomeConsole.pdb
